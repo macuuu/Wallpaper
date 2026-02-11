@@ -1,2 +1,2 @@
-# Generative Graphic Art Collection
+# Generative Art Collection
 #
