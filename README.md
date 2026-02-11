@@ -1,3 +1,1 @@
-# Wallpaper
-
-TouchDesigner Collection
+# Generative Graphic Art Collection
